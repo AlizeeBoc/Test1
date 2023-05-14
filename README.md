@@ -1,8 +1,10 @@
 # Test1
 ## Step 1
 
-Make sure you are in the dossier you need
+Make sure you are in the right directory 
+
 Clone your URL using git clone URL
+
 Don't forget to open the file
 
 ## Step 3
